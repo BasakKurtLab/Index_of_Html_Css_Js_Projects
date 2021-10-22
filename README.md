@@ -34,7 +34,7 @@
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
-            <td>User Register Form</td>
+            <td>User Registeration Form</td>
             <td><a href="https://github.com/BasakKurtLab/Multi-Step-Form" target="_blank">Repo details</a></td>
             <td><a href="https://basakkurtlab.github.io/Multi-Step-Form/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
