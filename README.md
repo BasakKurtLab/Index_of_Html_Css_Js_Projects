@@ -33,8 +33,7 @@
             <td><a href="https://github.com/BasakKurtLab/E-Commerce-Web-Seite" target="_blank">Repo details</a></td>
             <td><a href="https://basakkurtlab.github.io/E-Commerce-Web-Seite/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
-        </tr>
-        
+        </tr>        
         <tr>
             <td>Multi-step Form </td>
             <td><a href="https://github.com/BasakKurtLab/multi_step-img-_form" target="_blank">Repo details</a></td>
